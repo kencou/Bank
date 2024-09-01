@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidateCreateTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.014">
+  <properties/>
+  <testcase name="validate_apr_bound()" classname="banking.ValidateCreateTest" time="0.002"/>
+  <testcase name="missing_create_id()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="validate_amount_bound()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="create_checking()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="passing_amount_to_checking_and_savings()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="create_spelling_typo()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="account_type_spelling_typo()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="amount_not_number()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="amount_exceeds_max()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="create_case_insensitive()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="negative_amount()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="amount_overflow()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="missing_create_account_type()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="apr_overflow()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="missing_create_cd_amount()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="command_takes_correct_arguments()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="apr_exceeds_max()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="validate_id_regex()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="create_existed_id()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="negative_apr()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="create_cd()" classname="banking.ValidateCreateTest" time="0.001"/>
+  <testcase name="create_savings()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="missing_create_apr()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="validate_amount_data_type()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="validate_apr_data_type()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="apr_not_number()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="missing_create()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="validate_id_length()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="no_extra_space_between_command()" classname="banking.ValidateCreateTest" time="0.0"/>
+  <testcase name="account_type_case_insensitive()" classname="banking.ValidateCreateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

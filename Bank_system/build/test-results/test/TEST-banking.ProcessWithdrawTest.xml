@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ProcessWithdrawTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.001">
+  <properties/>
+  <testcase name="withdraw_savings()" classname="banking.ProcessWithdrawTest" time="0.001"/>
+  <testcase name="withdraw_savings_twice()" classname="banking.ProcessWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking()" classname="banking.ProcessWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking_twice()" classname="banking.ProcessWithdrawTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

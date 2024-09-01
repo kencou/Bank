@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidatePassTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.002">
+  <properties/>
+  <testcase name="pass_case_insensitive()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_zero()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_non_integer()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_more_than_sixty()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_forget_time()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_overflow()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_decimal()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="command_takes_correct_arguments()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_negative()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_valid()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_max()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="no_extra_space_between_command()" classname="banking.ValidatePassTest" time="0.0"/>
+  <testcase name="pass_spelling_check()" classname="banking.ValidatePassTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

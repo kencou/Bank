@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.SavingsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.001">
+  <properties/>
+  <testcase name="withdraw_savings()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="savings_case_insensitive()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="Bank_has_no_accounts_initially()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="deposit_savings()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="create_savings()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="savings_amount_zero_initially()" classname="banking.SavingsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

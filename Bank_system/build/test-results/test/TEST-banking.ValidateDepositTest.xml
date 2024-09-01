@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidateDepositTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.005">
+  <properties/>
+  <testcase name="deposit_checking_amount_overflow()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_savings_bound()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_spelling_typo()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_negative_amount_from_savings()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="validate_amount_not_number()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_exceeds_checking_max()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="missing_deposit_id()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="command_takes_correct_arguments()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="non_existed_id()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="validate_id_regex()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_cd()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_savings()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_negative_amount_from_checking()" classname="banking.ValidateDepositTest" time="0.001"/>
+  <testcase name="validate_amount_data_type()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_case_insensitive()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_checking_bound()" classname="banking.ValidateDepositTest" time="0.001"/>
+  <testcase name="deposit_exceeds_savings_max()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_checking()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="validate_id_length()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="no_extra_space_between_command()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="missing_deposit_amount()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <testcase name="deposit_saving_amount_overflow()" classname="banking.ValidateDepositTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

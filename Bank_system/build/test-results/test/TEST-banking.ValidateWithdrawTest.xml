@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidateWithdrawTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.009">
+  <properties/>
+  <testcase name="withdraw_exceeds_checking_max()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="cd_exact_withdraw_after_twelve_months()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_negative_amount_from_savings()" classname="banking.ValidateWithdrawTest" time="0.001"/>
+  <testcase name="missing_withdraw_id()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_savings()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_savings_bound()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="missing_withdraw_amount()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="validate_amount_not_number()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="savings_withdraw_twice_invalid()" classname="banking.ValidateWithdrawTest" time="0.001"/>
+  <testcase name="withdraw_spelling_typo()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="cd_withdraw_before_twelve_months()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="cd_half_withdraw_after_twelve_months()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="command_takes_correct_arguments()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="non_existed_id()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="validate_id_regex()" classname="banking.ValidateWithdrawTest" time="0.001"/>
+  <testcase name="one_withdraw_per_month_savings()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_case_insensitive()" classname="banking.ValidateWithdrawTest" time="0.001"/>
+  <testcase name="withdraw_cd()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_exceeds_savings_max()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="savings_withdraw_twice_valid_after_month()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="validate_amount_data_type()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_negative_amount_from_checking()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking_amount_overflow()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="validate_id_length()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="no_extra_space_between_command()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_saving_amount_overflow()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking_bound()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <testcase name="withdraw_checking_twice()" classname="banking.ValidateWithdrawTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

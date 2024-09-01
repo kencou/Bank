@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidateTransferTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.006">
+  <properties/>
+  <testcase name="transfer_checking_bound()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_to_cd()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_exceeds_savings_max()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_zero()" classname="banking.ValidateTransferTest" time="0.001"/>
+  <testcase name="transfer_negative_amount_from_savings()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_amount_overflow()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="missing_transfer_amount()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_to_checking()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_bound()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_to_cd()" classname="banking.ValidateTransferTest" time="0.001"/>
+  <testcase name="validate_amount_not_number()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_exceeds_checking_max()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_spelling_typo()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_zero()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_to_savings()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_to_savings()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_negative_amount_from_checking()" classname="banking.ValidateTransferTest" time="0.001"/>
+  <testcase name="command_takes_correct_arguments()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="non_existed_id()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="validate_id_regex()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_amount_overflow()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_same_checking()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_same_savings()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="validate_amount_data_type()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="cd_not_transferable_after_12_months()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_cd_to_checking()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_savings_to_checking()" classname="banking.ValidateTransferTest" time="0.001"/>
+  <testcase name="missing_one_id()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_cd_to_savings()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="validate_id_length()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="transfer_case_insensitive()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="no_extra_space_between_command()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <testcase name="cd_not_transferable()" classname="banking.ValidateTransferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

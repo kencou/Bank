@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ProcessTransferTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.0">
+  <properties/>
+  <testcase name="transfer_checking_to_savings_twice()" classname="banking.ProcessTransferTest" time="0.0"/>
+  <testcase name="transfer_checking_to_savings()" classname="banking.ProcessTransferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

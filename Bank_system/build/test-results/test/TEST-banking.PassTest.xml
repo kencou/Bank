@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.003">
+  <properties/>
+  <testcase name="dont_delete_if_amount_is_twenty_five()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="no_deduct_for_one_hundred()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="pass_zero_dont_delete_zero_accounts()" classname="banking.PassTest" time="0.001"/>
+  <testcase name="pass_accounts_0_month()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="check_time()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="deduct_for_lower_hundred()" classname="banking.PassTest" time="0.001"/>
+  <testcase name="pass_accounts_1_month()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="pass_accounts_many_months()" classname="banking.PassTest" time="0.0"/>
+  <testcase name="delete_for_zero_amount()" classname="banking.PassTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

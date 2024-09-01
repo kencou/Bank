@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.01">
+  <properties/>
+  <testcase name="sample_make_sure_this_passes_unchanged_or_you_will_fail()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="typo_in_create_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="cd_amount_withdraw_before_and_after_twelve_months()" classname="banking.MasterControlTest" time="0.002"/>
+  <testcase name="add_transactional_commands_in_order()" classname="banking.MasterControlTest" time="0.002"/>
+  <testcase name="cd_can_not_transfer()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="round_floor_amount_current_state()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="create_in_order()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="typo_in_deposit_command_is_invalid()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="no_savings_withdraw_or_transfer_more_than_once()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="two_typo_commands_both_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="deposit_withdraw_zero_valid()" classname="banking.MasterControlTest" time="0.001"/>
+  <system-out><![CDATA[[Cd 34567890 0.00 0.60, Withdraw 34567890 1100, Withdraw 34567890 1000, Withdraw 34567890 100]
+[Checking 12345678 1004.50 0.60, Deposit 12345678 1000, Savings 23456789 1004.50 0.60, Deposit 23456789 1000, Cd 34567890 1018.15 0.60]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CdTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-08-31T16:42:19" hostname="Kaungs-MBP" time="0.002">
+  <properties/>
+  <testcase name="create_cd_with_no_amount_not_allowed()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="cd_amount_check_initially()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="deposit_cd()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="cd_case_insensitive()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="Bank_has_no_accounts_initially()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="create_cd()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="withdraw_cd_after_twelve_months()" classname="banking.CdTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
